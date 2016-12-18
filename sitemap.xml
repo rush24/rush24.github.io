@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.zhangzhiyong.xyz/2016/06/11/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82/</loc>
+    
+    <lastmod>2016-12-18T16:03:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.zhangzhiyong.xyz/2016/03/03/Product%20of%20Array%20Except%20Self/</loc>
     
     <lastmod>2016-12-18T15:51:13.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.zhangzhiyong.xyz/2016/03/03/Move%20Zeroes/</loc>
     
     <lastmod>2016-12-18T15:51:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.zhangzhiyong.xyz/2016/06/11/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82/</loc>
-    
-    <lastmod>2016-12-18T15:47:31.000Z</lastmod>
     
   </url>
   

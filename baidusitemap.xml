@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://www.zhangzhiyong.xyz/2016/06/11/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82/</loc>
+    <lastmod>2016-12-18T16:03:21.000Z</lastmod>
+    <data>
+        <display>
+        <title>设计模式-工厂</title>
+        <pubTime>2016-06-11T06:24:00.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>工厂</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://www.zhangzhiyong.xyz/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.zhangzhiyong.xyz/2016/03/03/Product%20of%20Array%20Except%20Self/</loc>
     <lastmod>2016-12-18T15:51:13.000Z</lastmod>
     <data>
@@ -41,28 +63,6 @@
            
              
               <breadCrumb title="算法" url="http://www.zhangzhiyong.xyz/categories/%E7%AE%97%E6%B3%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.zhangzhiyong.xyz/2016/06/11/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82/</loc>
-    <lastmod>2016-12-18T15:47:31.000Z</lastmod>
-    <data>
-        <display>
-        <title>设计模式-工厂</title>
-        <pubTime>2016-06-11T06:24:00.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-        <tag>工厂</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://www.zhangzhiyong.xyz/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
