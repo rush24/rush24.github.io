@@ -3,6 +3,26 @@
 
 
     
+  <url>
+    <loc>http://www.zhangzhiyong.xyz/2016/12/18/test1/</loc>
+    <lastmod>2016-12-18T12:52:34.000Z</lastmod>
+    <data>
+        <display>
+        <title>test1</title>
+        <pubTime>2016-12-18T12:50:00.000Z</pubTime>
+        
+        <tag>fuck</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="http://www.zhangzhiyong.xyz/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://www.zhangzhiyong.xyz/2016/12/17/hello-world/</loc>
